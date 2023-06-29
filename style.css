@@ -1,0 +1,15 @@
+div {
+    margin: 20px;
+    background-color: rgb(227, 227, 227);
+    width: 60%;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+button {
+    display: block;
+}
+
+output {
+    display: block;
+}
